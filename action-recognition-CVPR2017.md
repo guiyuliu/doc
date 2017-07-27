@@ -1,7 +1,7 @@
 
 # Action Recognition  
  A modified vesion of [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
-A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
+ A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 
 ## Table of Contents
@@ -15,7 +15,6 @@ A curated list of action recognition and related area (e.g. object recognition, 
 inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
 ####  Analyzing Humans in Images
 * [Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection ]()
-
 * [Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition With Convolutional Neural Networks]()
 
 * [Spatio-Temporal Naive-Bayes Nearest-Neighbor (ST-NBNN) for Skeleton-Based Action Recognition]()
