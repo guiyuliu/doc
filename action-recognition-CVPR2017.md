@@ -1,9 +1,8 @@
 
 # Action Recognition  
  A modified vesion of [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
+ 
  A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
-
-
 ## Table of Contents
 
  - [Action Recognition](#ar)
@@ -39,13 +38,10 @@ inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
 * [	Global Context-Aware Attention LSTM Networks for 3D Action Recognition](https://www.researchgate.net/publication/317716159_Global_Context-Aware_Attention_LSTM_Networks_for_3D_Action_Recognition)
 #### Applications	
 * [	Modeling Sub-Event Dynamics in First-Person Action Recognition](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zaki_Modeling_Sub-Event_Dynamics_CVPR_2017_paper.pdf)
+#### others
+[Multi-Task Clustering of Human Actions by Sharing Information](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.pdf)
+[Binary Coding for Partial Action Analysis With Limited Observation Ratios](http://bmc.uestc.edu.cn/~fshen/binary-action-CVPR2017.pdf)
 
-[]()
-[code]()
-
-others
-Multi-Task Clustering of Human Actions by Sharing Information
-Binary Coding for Partial Action Analysis With Limited Observation Ratios
 ### Spatio-Temporal Action Detection
 * [Action Tubelet Detector for Spatio-Temporal Action Localization](https://arxiv.org/abs/1705.01861) - V. Kalogeiton et al, arXiv2017.
 * [Am I Done? Predicting Action Progress in Videos](https://arxiv.org/abs/1705.01781) - F. Becattini et al, arXiv2017.
