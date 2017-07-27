@@ -16,7 +16,6 @@ inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
 ####  Analyzing Humans in Images
 * [Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection ]()
 * [Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition With Convolutional Neural Networks]()
-
 * [Spatio-Temporal Naive-Bayes Nearest-Neighbor (ST-NBNN) for Skeleton-Based Action Recognition]()
 
 * [Procedural Generation of Videos to Train Deep Action Recognition Networks]()
