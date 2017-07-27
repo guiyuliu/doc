@@ -19,20 +19,17 @@ inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
 * [Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition With Convolutional Neural Networks](https://arxiv.org/pdf/1702.08652.pdf)
 * [Spatio-Temporal Naive-Bayes Nearest-Neighbor (ST-NBNN) for Skeleton-Based Action Recognition](https://eeeweba.ntu.edu.sg/computervision/Research%20Papers/2017/Spatio-Temporal%20Naive-Bayes%20Nearest-Neighbor%20for%20Skeleton-Based%20Action%20Recognition.pdf)
 * [Procedural Generation of Videos to Train Deep Action Recognition Networks](https://arxiv.org/pdf/1612.00881.pdf)
-* [	Learning and Refining of Privileged Information-Based RNNs for Action Recognition From Depth Sequences](https://arxiv.org/pdf/1703.09625.pdf)* [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750.pdf)* [Asynchronous Temporal Fields for Action Recognition](https://arxiv.org/pdf/1612.06371.pdf)
+* [	Learning and Refining of Privileged Information-Based RNNs for Action Recognition From Depth Sequences](https://arxiv.org/pdf/1703.09625.pdf)
+* [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750.pdf)* [Asynchronous Temporal Fields for Action Recognition](https://arxiv.org/pdf/1612.06371.pdf)
 * [	AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos](https://arxiv.org/pdf/1611.08240.pdf)
 * [Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks](https://arxiv.org/pdf/1704.02581.pdf)
 * [Deep Sequential Context Networks for Action Prediction](http://www1.ece.neu.edu/~yukong/Papers/cvpr2017.pdf)Yu Kong
 
 ####  Video Analytics
 * [ Zero-Shot Action Recognition With Error-Correcting Output Codes ](http://bmc.uestc.edu.cn/~fshen/zero-shot-action-CVPR2017.pdf)
-
 * [	Spatiotemporal Pyramid Network for Video Action Recognition](https://arxiv.org/pdf/1611.02155.pdf) -201611
-
 * [	Spatio-Temporal Vector of Locally Max Pooled Features for Action Recognition in Videos](https://arxiv.org/pdf/1611.02155.pdf) 1611
-
 * [	UntrimmedNets for Weakly Supervised Action Recognition and Detection](https://arxiv.org/pdf/1703.03329.pdf)
-
 * [	Spatiotemporal Multiplier Networks for Video Action Recognition](https://arxiv.org/pdf/1611.02155.pdf)
 * [ActionVLAD: Learning Spatio-Temporal Aggregation for Action Classification](https://arxiv.org/pdf/1704.02895.pdf)
 ####  Spotlight 1-2B	Analyzing Humans 1
@@ -40,7 +37,6 @@ inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
 
 #### 3D Computer Vision
 * [	Global Context-Aware Attention LSTM Networks for 3D Action Recognition](https://www.researchgate.net/publication/317716159_Global_Context-Aware_Attention_LSTM_Networks_for_3D_Action_Recognition)
-
 #### Applications	
 * [	Modeling Sub-Event Dynamics in First-Person Action Recognition](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zaki_Modeling_Sub-Event_Dynamics_CVPR_2017_paper.pdf)
 
