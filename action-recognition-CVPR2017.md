@@ -14,41 +14,41 @@ A curated list of action recognition and related area (e.g. object recognition, 
 ### Action Recognition in CVPR 2017
 inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
 ####  Analyzing Humans in Images
-[Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection ]()
+* [Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection ]()
 
-[Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition With Convolutional Neural Networks]()
+* [Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition With Convolutional Neural Networks]()
 
-[Spatio-Temporal Naive-Bayes Nearest-Neighbor (ST-NBNN) for Skeleton-Based Action Recognition]()
+* [Spatio-Temporal Naive-Bayes Nearest-Neighbor (ST-NBNN) for Skeleton-Based Action Recognition]()
 
-[Procedural Generation of Videos to Train Deep Action Recognition Networks]()
+* [Procedural Generation of Videos to Train Deep Action Recognition Networks]()
 
-[	Learning and Refining of Privileged Information-Based RNNs for Action Recognition From Depth Sequences]()
+* [	Learning and Refining of Privileged Information-Based RNNs for Action Recognition From Depth Sequences]()
 
-[Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset]()
+* [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset]()
 
-[	Asynchronous Temporal Fields for Action Recognition]()
+* [	Asynchronous Temporal Fields for Action Recognition]()
 
-[	AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos]()
+* [	AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos]()
 
 ####  Video Analytics
-[ Zero-Shot Action Recognition With Error-Correcting Output Codes ]()
+* [ Zero-Shot Action Recognition With Error-Correcting Output Codes ]()
 
-[	Spatiotemporal Pyramid Network for Video Action Recognition]()
+* [	Spatiotemporal Pyramid Network for Video Action Recognition]()
 
-[	Spatio-Temporal Vector of Locally Max Pooled Features for Action Recognition in Videos]()
+* [	Spatio-Temporal Vector of Locally Max Pooled Features for Action Recognition in Videos]()
 
-[	UntrimmedNets for Weakly Supervised Action Recognition and Detection]()
+* [	UntrimmedNets for Weakly Supervised Action Recognition and Detection]()
 
-[	Spatiotemporal Multiplier Networks for Video Action Recognition]()
+* [	Spatiotemporal Multiplier Networks for Video Action Recognition]()
 
 ####  Spotlight 1-2B	Analyzing Humans 1
-[Deep Learning on Lie Groups for Skeleton-Based Action Recognition]()
+* [Deep Learning on Lie Groups for Skeleton-Based Action Recognition]()
 
 #### 3D Computer Vision
-[	Global Context-Aware Attention LSTM Networks for 3D Action Recognition]()
+* [	Global Context-Aware Attention LSTM Networks for 3D Action Recognition]()
 
 #### Applications	
-[	Modeling Sub-Event Dynamics in First-Person Action Recognition]()
+* [	Modeling Sub-Event Dynamics in First-Person Action Recognition]()
 
 []()
 [code]()
