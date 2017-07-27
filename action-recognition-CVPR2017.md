@@ -12,10 +12,11 @@
 
 ## Action Recognition
 ### Action Recognition in CVPR 2017
-inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
+inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)  
+[CVPR2017](http://www.cvpapers.com/cvpr2017.html)
 ####  Analyzing Humans in Images
-* [Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection ]()
-* [Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition With Convolutional Neural Networks]()
+* [Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection ](https://arxiv.org/pdf/1607.02737.pdf)
+* [Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition With Convolutional Neural Networks](https://arxiv.org/pdf/1702.08652.pdf)
 * [Spatio-Temporal Naive-Bayes Nearest-Neighbor (ST-NBNN) for Skeleton-Based Action Recognition]()
 * [Procedural Generation of Videos to Train Deep Action Recognition Networks]()
 * [	Learning and Refining of Privileged Information-Based RNNs for Action Recognition From Depth Sequences]()
@@ -32,7 +33,7 @@ inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
 
 * [	Spatio-Temporal Vector of Locally Max Pooled Features for Action Recognition in Videos]()
 
-* [	UntrimmedNets for Weakly Supervised Action Recognition and Detection]()
+* [	UntrimmedNets for Weakly Supervised Action Recognition and Detection](https://arxiv.org/pdf/1703.03329.pdf)
 
 * [	Spatiotemporal Multiplier Networks for Video Action Recognition]()
 
@@ -48,6 +49,8 @@ inspired by [jinwchoi](https://github.com/jinwchoi/Action-Recognition)
 []()
 [code]()
 
+others
+[Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks](https://arxiv.org/pdf/1704.02581.pdf)
 ### Spatio-Temporal Action Detection
 * [Action Tubelet Detector for Spatio-Temporal Action Localization](https://arxiv.org/abs/1705.01861) - V. Kalogeiton et al, arXiv2017.
 * [Am I Done? Predicting Action Progress in Videos](https://arxiv.org/abs/1705.01781) - F. Becattini et al, arXiv2017.
